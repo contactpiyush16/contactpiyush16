@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Piyush Sinha
-**An Aspiring Sotware Engineer ||  B.Tech CSE @MGCU ||**
+**An Aspiring Software Engineer ||  B.Tech CSE @MGCU ||**
 
 Email Me 👉 ✉️ **contactpiyuhs16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
