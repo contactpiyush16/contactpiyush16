@@ -148,17 +148,6 @@ Worked on:
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![snake gif](https://github.com/contactpiyush16/contactpiyush16/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-
 # 🌐 Connect With Me
 
 <p align="left">
