@@ -1,89 +1,156 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush+Sinha;+B.Tech+Computer+Science+Student;+Aspiring+AI+%2F+ML+Engineer;+Data+Science+Enthusiast" alt="Typing SVG" />
+
+# Hi 👋, I'm Piyush Sinha
+
+### B.Tech CSE Student • AI/ML Enthusiast • Exploring Data Science & Core CS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Building+Strong+CS+Fundamentals;Python+%7C+Data+Science+%7C+Problem+Solving;Always+Learning+and+Exploring+Tech" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a passionate **B.Tech Computer Science & Engineering** student at **Mahatma Gandhi Central University, Bihar**. I possess an analytical, research-oriented mindset with a keen focus on building strong fundamental graphs of computer systems, data architecture, and intelligent workflows.
+🎓 B.Tech Computer Science & Engineering student at **Mahatma Gandhi Central University, Bihar**
 
-* 🚀 **Current Focus:** Leveling up Data Structures & Algorithms (DSA), building real-world AI/ML pipelines, and mastering database workflows.
-* 📌 **Traits:** Observant, detail-oriented, and a dedicated self-learner who loves digging deep into conceptual frameworks.
-* 🎨 **Beyond the Code:** Graphic designing, technology research, sketching, and gaming.
+💡 Interested in:
+
+* Artificial Intelligence & Machine Learning
+* Data Science & Analytics
+* Core Computer Science Fundamentals
+* System-Level Understanding & Problem Solving
+
+🧠 Currently working on:
+
+* Strengthening DSA concepts
+* Building ML projects
+* Improving database & backend understanding
+* Learning real-world development workflows
+
+⚡ Strength Areas:
+
+* Operating Systems
+* Computer Organization & Architecture
+* Digital Logic
+* Python Programming & OOPs
+* C Programming
+
+🎨 Other Interests:
+
+* Graphic Designing
+* Sketching
+* Gaming
+* Exploring AI tools & emerging technologies
 
 ---
 
-### 💻 Tech Stack & Toolkit
+# 🚀 Tech Stack
 
-#### 🚀 Languages & Core Competencies
+### 💻 Languages
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/OOPs-FF6B6B?style=for-the-badge&logo=concept&logoColor=white" alt="OOPs"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
 </p>
 
-#### 🤖 Data Science & Machine Learning Frameworks
+### 🤖 Data Science & ML
+
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C6EF5?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C6EF5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ---
 
-### 🛠️ Featured Repositories & Real-Time Stats
+# 📂 Featured Projects
 
-*(Yahan tumhare live repositories ke card automatic look transitions aur continuous language utilization display karenge. Replace `YOUR_GITHUB_USERNAME` below with your real GitHub ID to load live data!)*
+## ❤️ Heart Disease Prediction System
+
+Machine Learning project focused on predicting heart disease risk using healthcare datasets and classification algorithms.
+
+### Key Features:
+
+* Data preprocessing & cleaning
+* Exploratory Data Analysis (EDA)
+* Model training & evaluation
+* Performance comparison of ML algorithms
+
+---
+
+## 📊 Financial Delinquency Analysis
+
+Data analysis project focused on understanding financial risk patterns and customer delinquency behavior.
+
+### Covered:
+
+* Data visualization
+* Trend analysis
+* Statistical insights
+* Predictive analysis basics
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/heart-disease-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=heart-disease-prediction&theme=tokyonight" alt="Heart Disease Prediction Repo" height="120" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/financial-delinquency-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=financial-delinquency-analysis&theme=tokyonight" alt="Financial Delinquency Repo" height="120" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=contactpiyush16&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactpiyush16&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-### 📊 Comprehensive Git Activity & Language Metrics
+# 🔥 Contribution Streak
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h4>⚡ System Performance Metric</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Piyush's GitHub Stats" height="160" />
-      </td>
-      <td width="50%" align="center">
-        <h4>🍰 Repository Language Split</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages Map" height="160" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h4>🔥 Continuous Contribution Streak</h4>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Piyush's GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=contactpiyush16&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-### 🎓 Professional Experience & Internships
+# 🎓 Internship Experience
 
-**AI & Data Science Intern** — **CDAC Patna** *(6-Week Intensive)*
-* **Core Development:** Advanced Python for Data Science, custom data preprocessing pipelines, exploratory analysis, and building foundational regression/classification models.
-* Worked directly with clustering mechanics (K-Means) and was introduced to foundational Deep Learning concepts (RNNs & LLM structures).
+## AI & Data Science Intern — CDAC Patna
+
+**6-Week Internship Program**
+
+Worked on:
+
+* Python for Data Science
+* Data preprocessing techniques
+* Machine Learning basics
+* Regression & Classification models
+* K-Means Clustering
+* Introduction to Deep Learning, RNNs & LLM concepts
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
 
 <div align="center">
-  🌐 Connect with me on <b><a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a></b> • Let's build something intelligent!
+
+### ⭐ “Consistency beats motivation.”
+
 </div>
