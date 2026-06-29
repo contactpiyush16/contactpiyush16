@@ -136,6 +136,29 @@ Worked on:
 
 ---
 
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=contactpiyush16\&theme=tokyo-night\&hide_border=true)](https://github.com/contactpiyush16)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![snake gif](https://github.com/contactpiyush16/contactpiyush16/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+
 # 🌐 Connect With Me
 
 <p align="left">
