@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **B.Tech Computer Science & Engineering** student at **Mahatma Gandhi Central University, Bihar** (Batch: 2024–2028). I possess an analytical, research-oriented mindset with a keen focus on building a strong fundamental grasp of computer systems, data architecture, and intelligent workflows. 
+I am a passionate **B.Tech Computer Science & Engineering** student at **Mahatma Gandhi Central University, Bihar**. I possess an analytical, research-oriented mindset with a keen focus on building strong fundamental graphs of computer systems, data architecture, and intelligent workflows.
 
 * 🚀 **Current Focus:** Leveling up Data Structures & Algorithms (DSA), building real-world AI/ML pipelines, and mastering database workflows.
 * 📌 **Traits:** Observant, detail-oriented, and a dedicated self-learner who loves digging deep into conceptual frameworks.
@@ -34,57 +34,53 @@ I am a passionate **B.Tech Computer Science & Engineering** student at **Mahatma
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </p>
 
-#### 🛠️ IDEs & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
-</p>
-
 ---
 
-### 📚 Academic & Subject Proficiency Map
+### 🛠️ Featured Repositories & Real-Time Stats
 
-| 💡 Strong Foundation | 🧠 Moderate / Improving | 🌱 Upcoming Horizons |
-| :--- | :--- | :--- |
-| • Operating Systems (OS)<br>• Computer Org. & Architecture (COA)<br>• Digital Logic<br>• Python & C Basics | • Design & Analysis of Algorithms (DAA)<br>• Data Structures & Algorithms (DSA)<br>• Probability & Statistics<br>• Discrete Math | • DBMS & Computer Networks<br>• Theory of Computation (TOC)<br>• Compiler Design |
-
----
-
-### 🎓 Professional Experience
-
-**AI & Data Science Intern** — **CDAC Patna** *(6-Week Intensive)*
-* **Key Learnings:** Advanced Python for Data Science, complex data preprocessing pipelines, exploratory analysis, and building foundational regression/classification models.
-* Worked directly with clustering mechanics (K-Means) and was introduced to foundational Deep Learning concepts (RNNs & LLM structures).
-
----
-
-### 🛠️ Featured Projects
-
-#### 🩺 Heart Disease Prediction System
-* **Tech:** Python, Scikit-Learn, Pandas, NumPy
-* **Impact:** Designed a functional machine learning pipeline handling medical data clearing, feature selection, and model training. Implemented classification algorithms to evaluate and early-predict heart risk factors accurately.
-
-#### 📉 Financial Delinquency Risk Analysis
-* **Tech:** Python, Seaborn, Matplotlib, Exploratory Data Analysis (EDA)
-* **Impact:** Investigated structured financial records to map debtor repayment behavior patterns. Uncovered key demographic and economic delinquency metrics to understand credit risk.
-
----
-
-### 📊 Git Stats & Activity
+*(Yahan tumhare live repositories ke card automatic look transitions aur continuous language utilization display karenge. Replace `YOUR_GITHUB_USERNAME` below with your real GitHub ID to load live data!)*
 
 <div align="center">
-  <table border="0">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/heart-disease-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=heart-disease-prediction&theme=tokyonight" alt="Heart Disease Prediction Repo" height="120" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/financial-delinquency-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=financial-delinquency-analysis&theme=tokyonight" alt="Financial Delinquency Repo" height="120" />
+  </a>
+</div>
+
+---
+
+### 📊 Comprehensive Git Activity & Language Metrics
+
+<div align="center">
+  <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Piyush's GitHub Stats" height="150" />
+      <td width="50%" align="center">
+        <h4>⚡ System Performance Metric</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Piyush's GitHub Stats" height="160" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Piyush's GitHub Streak" height="150" />
+      <td width="50%" align="center">
+        <h4>🍰 Repository Language Split</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages Map" height="160" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h4>🔥 Continuous Contribution Streak</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Piyush's GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+### 🎓 Professional Experience & Internships
+
+**AI & Data Science Intern** — **CDAC Patna** *(6-Week Intensive)*
+* **Core Development:** Advanced Python for Data Science, custom data preprocessing pipelines, exploratory analysis, and building foundational regression/classification models.
+* Worked directly with clustering mechanics (K-Means) and was introduced to foundational Deep Learning concepts (RNNs & LLM structures).
 
 ---
 
