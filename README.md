@@ -1,6 +1,23 @@
+````md id="finalreadme"
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Piyush%20Sinha&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=00F7FF&desc=B.Tech%20CSE%20Student%20%7C%20AI%20ML%20Enthusiast%20%7C%20Data%20Science&descAlignY=60"/>
+```text
+██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
+██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
+██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║
+██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
+██║     ██║   ██║   ╚██████╔╝███████║██║  ██║
+╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+███████╗██╗███╗   ██╗██╗  ██╗ █████╗
+██╔════╝██║████╗  ██║██║  ██║██╔══██╗
+███████╗██║██╔██╗ ██║███████║███████║
+╚════██║██║██║╚██╗██║██╔══██║██╔══██║
+███████║██║██║ ╚████║██║  ██║██║  ██║
+╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+````
+
+### 🚀 B.Tech CSE Student | AI/ML Enthusiast | Data Science Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Building+Strong+Computer+Science+Fundamentals;Python+%7C+Machine+Learning+%7C+Data+Science;Learning+System+Design+%26+Backend+Concepts;Always+Exploring+New+Technologies"/>
 
@@ -17,32 +34,36 @@
 🎓 B.Tech CSE Student at **Mahatma Gandhi Central University, Bihar**
 
 💡 Passionate about:
-- Artificial Intelligence & Machine Learning
-- Data Science & Analytics
-- Core Computer Science Fundamentals
-- Problem Solving & Logical Thinking
-- System-Level Understanding
+
+* Artificial Intelligence & Machine Learning
+* Data Science & Analytics
+* Core Computer Science Fundamentals
+* Problem Solving & Logical Thinking
+* System-Level Understanding
 
 🧠 Currently Focused On:
-- Strengthening DSA
-- Building ML Projects
-- Backend & Database Concepts
-- Real-world Development Workflow
-- Improving Problem Solving Ability
+
+* Strengthening DSA
+* Building ML Projects
+* Backend & Database Concepts
+* Real-world Development Workflow
+* Improving Problem Solving Ability
 
 ⚡ Strong Areas:
-- Operating Systems
-- Computer Organization & Architecture
-- Digital Logic
-- Python & OOPs
-- C Programming
+
+* Operating Systems
+* Computer Organization & Architecture
+* Digital Logic
+* Python & OOPs
+* C Programming
 
 🎨 Other Interests:
-- Graphic Designing
-- Sketching
-- Gaming
-- AI Tools Exploration
-- Tech Research
+
+* Graphic Designing
+* Sketching
+* Gaming
+* AI Tools Exploration
+* Tech Research
 
 ---
 
@@ -85,11 +106,12 @@
 Machine Learning project focused on predicting heart disease risk using healthcare datasets.
 
 ### 🔹 Features
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Model Training & Evaluation
-- ML Algorithm Comparison
-- Accuracy Analysis
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis
+* Model Training & Evaluation
+* ML Algorithm Comparison
+* Accuracy Analysis
 
 </td>
 
@@ -100,11 +122,12 @@ Machine Learning project focused on predicting heart disease risk using healthca
 Data analysis project focused on financial risk patterns and delinquency behavior.
 
 ### 🔹 Covered
-- Data Visualization
-- Statistical Insights
-- Trend Analysis
-- Risk Pattern Understanding
-- Predictive Analysis Basics
+
+* Data Visualization
+* Statistical Insights
+* Trend Analysis
+* Risk Pattern Understanding
+* Predictive Analysis Basics
 
 </td>
 </tr>
@@ -138,7 +161,7 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 
 <div align="center">
 
-[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=contactpiyush16&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/contactpiyush16)
+[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=contactpiyush16\&theme=tokyo-night\&hide_border=true\&bg_color=0d1117)](https://github.com/contactpiyush16)
 
 </div>
 
@@ -155,13 +178,14 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 </div>
 
 ### 🔹 Worked On
-- Python for Data Science
-- Data Preprocessing Techniques
-- Machine Learning Basics
-- Regression & Classification Models
-- K-Means Clustering
-- Introduction to Deep Learning
-- RNN & LLM Fundamentals
+
+* Python for Data Science
+* Data Preprocessing Techniques
+* Machine Learning Basics
+* Regression & Classification Models
+* K-Means Clustering
+* Introduction to Deep Learning
+* RNN & LLM Fundamentals
 
 ---
 
@@ -173,7 +197,7 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+   
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
@@ -196,4 +220,4 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
-
+```
