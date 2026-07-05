@@ -1,4 +1,4 @@
-````md id="finalreadme"
+
 <div align="center">
 
 ```text
@@ -220,4 +220,4 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
-```
+
