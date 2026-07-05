@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Piyush%20Sinha&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=00F7FF&desc=B.Tech%20CSE%20Student%20%7C%20AI%20ML%20Enthusiast%20%7C%20Data%20Science&descAlignY=60"/>
@@ -197,4 +196,4 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
-```
+
