@@ -129,7 +129,7 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 
 ---
 
-# 📈 GitHub Analytics
+📈 GitHub Analytics
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=contactpiyush16&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=contactpiyush16&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
