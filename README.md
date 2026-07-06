@@ -131,21 +131,11 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 
 📈 GitHub Analytics
 
-<div align="center">
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=contactpiyush16&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=contactpiyush16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactpiyush16&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactpiyush16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=contactpiyush16&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
+<p align="center"> <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=contactpiyush16&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
