@@ -135,17 +135,14 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 
 # 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=contactpiyush16&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=contactpiyush16&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=contactpiyush16&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=contactpiyush16&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=contactpiyush16&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
-
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=contactpiyush16&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
