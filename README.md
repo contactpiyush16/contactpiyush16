@@ -59,6 +59,7 @@
 - AI Tools Exploration
 - Tech Research
 
+<br clear="right"/>
 ---
 
 # ⚡ Tech Stack
