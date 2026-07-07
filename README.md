@@ -143,7 +143,7 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=contactpiyush16&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=contactpiyush16&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 
 </div>
 
