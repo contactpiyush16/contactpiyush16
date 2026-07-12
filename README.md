@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 ```text
 ██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗   ███████╗██╗███╗   ██╗██╗  ██╗ █████╗
@@ -194,7 +194,7 @@ Data analysis project focused on financial risk patterns and delinquency behavio
 
 <div align="center">
 
-## ⚡ Quote of the Day
+## ⚡ Quote of the Dayday
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
